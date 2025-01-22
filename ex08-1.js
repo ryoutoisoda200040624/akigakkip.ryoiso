@@ -1,1 +1,1 @@
-function imgchange1(){document.getElementById('logo').src='./image/happakomarigao.png';}
+function change1(){document.getElementById('mario').src='./image/neko.png';}
