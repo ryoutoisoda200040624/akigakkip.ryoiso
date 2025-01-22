@@ -1,3 +1,3 @@
-function imgchange6(){document.getElementById('logo2').src='./image/happakomarigao.png';}
+function imgchange6(){document.getElementById('kuizu').src='./image/happakomarigao.png';}
 
-function happa(){document.getElementById('logo2').src='./image/happamotonokao.png';}
+function happa(){document.getElementById('kuizu').src='./image/happamotonokao.png';}
